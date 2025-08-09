@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media.giphy.com/media/qgQUowwNl7A3G/giphy.gif" alt="A team of developers collaborating" width="600" />
+<img src="https://github.com/SCOPE-OFFICIAL/.github/blob/main/profile/Welcome%20(1).gif" width="600" />
 
 # 👋 **Welcome to SCOPE-Official GitHub Organization!**  
 
@@ -31,13 +31,13 @@ This is where the **magic happens**! We work on **various projects** — from **
 
 ---
 
-## 📈 **GitHub Stats & Streaks**
-Check out some inspiring stats from the open-source community!  
+## 📈 **GitHub Stats & Activity**
+Check out our organization's **open-source activity** and **top technologies**!  
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" alt="GitHub Stats" height="150" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dracula" alt="GitHub Streak Stats" height="150" />  
+<img src="https://github-readme-stats.vercel.app/api?username=SCOPE-OFFICIAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SCOPE GitHub Stats" height="150" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCOPE-OFFICIAL&layout=compact&theme=tokyonight&hide_border=true" alt="SCOPE Top Languages" height="150" />  
 
 </div>
 
