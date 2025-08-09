@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://github.com/SCOPE-OFFICIAL/.github/blob/main/profile/Welcome%20(1).gif" width="600" />
+<img src="https://github.com/SCOPE-OFFICIAL/.github/blob/main/profile/Welcome%20(1).gif" alt="Banner" width="100%" />
 
 # 👋 **Welcome to SCOPE-Official GitHub Organization!**  
 
