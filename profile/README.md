@@ -31,15 +31,7 @@ This is where the **magic happens**! We work on **various projects** — from **
 
 ---
 
-## 📈 **GitHub Stats & Activity**
-Check out our organization's **open-source activity** and **top technologies**!  
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=SCOPE-OFFICIAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SCOPE GitHub Stats" height="150" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCOPE-OFFICIAL&layout=compact&theme=tokyonight&hide_border=true" alt="SCOPE Top Languages" height="150" />  
-
-</div>
 
 ---
 
@@ -66,8 +58,8 @@ Some of them are mentioned below:
 ## 🤝 **Join the Community**
 Getting started is **simple**:  
 
-1️⃣ **Introduce Yourself** – Say hello in our community space *(Slack, Discord, etc.)*.  
-2️⃣ **Find a Project** – Browse our repos & look for issues labeled **`good first issue`**.  
+1️⃣ **Introduce Yourself** – Say hello in the discussions page. 
+2️⃣ **Find a Project** – Browse our repos & star the ones you like.  
 3️⃣ **Clone & Contribute** – Fork → Code → Pull Request. We’ll guide you!  
 
 💬 This is a **safe space for learning** – mistakes are just **steps toward growth**!  
