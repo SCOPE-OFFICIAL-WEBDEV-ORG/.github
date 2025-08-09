@@ -21,7 +21,7 @@ This organization is a **dedicated space** for members to **build**, **innovate*
 
 ## 📚 **What We Do**
 
-This is where the **magic happens**! We work on **various projects** — from **small, focused challenges** to **large-scale open-source applications**.  
+This is where the **magic happens**! We work on **various projects** — from **small, focused challenges** to **cracking very interesting problem statements using code**.  
 
 ### 🛠 **Our Activities**
 - **💻 Collaborative Projects** – Join a team and work on **real-world problems** that showcase your skills.  
