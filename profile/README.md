@@ -59,7 +59,9 @@ Some of them are mentioned below:
 Getting started is **simple**:  
 
 1️⃣ **Introduce Yourself** – Say hello in the discussions page. 
+
 2️⃣ **Find a Project** – Browse our repos & star the ones you like.  
+
 3️⃣ **Clone & Contribute** – Fork → Code → Pull Request. We’ll guide you!  
 
 💬 This is a **safe space for learning** – mistakes are just **steps toward growth**!  
